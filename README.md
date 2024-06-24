@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aswin</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/aswin-k-018265264/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:aswinkarthikeyan05gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
+  </a>
+</div>
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
