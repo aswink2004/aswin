@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aswin</h1>
-<h3 align="center">👩‍💻 About Me <br>
-<p>I'm from TamilNadu, India </p><br>
-<p>🔭 I’m a student pursuing B.Tech Information Technology at Bannari Amman Institute Of Technology</p><br>
+<h3 align="left">👩‍💻 About Me</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 📫 How to reach me **aswinkarthikeyan05@gmail.com**
+<p align="left">
+  I'm from Tamil Nadu, India<br><br>
+  🔭 I’m a student pursuing B.Tech in Information Technology at Bannari Amman Institute Of Technology<br>
+  📚 I'm currently learning Full Stack Development
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
