@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin</h1>
-<h3 align="center">👩‍💻 About Me I'm from TamilNadu, India - 🔭 I’m a student pursuing B.Tech Information Technology at Bannari Amman Institute Of Technology</h3>
+<h3 align="center">👩‍💻 About Me ><br>
+<p>I'm from TamilNadu, India </p><br>
+<p>🔭 I’m a student pursuing B.Tech Information Technology at Bannari Amman Institute Of Technology</p><br>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
