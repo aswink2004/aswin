@@ -11,7 +11,7 @@
 
 <p align="left">
   I'm from Tamil Nadu, India<br><br>
-  🔭 I’m a student pursuing B.Tech in Information Technology at Bannari Amman Institute Of Technology<br>
+  🔭 I’m a Software Engineer
   📚 I'm currently learning Full Stack Development
 </p>
 
