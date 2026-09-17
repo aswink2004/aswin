@@ -11,7 +11,7 @@
 
 <p align="left">
   I'm from Tamil Nadu, India<br><br>
-  🔭 I’m a Software Engineer
+  🔭 I’m a Software Engineer<br>
   📚 I'm currently learning Full Stack Development
 </p>
 
