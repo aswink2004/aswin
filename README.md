@@ -47,10 +47,6 @@ A computer-vision / machine learning project exploring how hand gestures can be 
 A web application for managing external events at college, with a documented project flow and design assets.
 **Stack:** Python · Django · SQLite · HTML
 
-### ⚡ [Eqrev Integration (Hackathon)](https://github.com/aswink2004/eqrev__hackathon)
-A hackathon project with a React front end and a separate backend, built and deployed within a short time limit.
-**Stack:** React · Vite · Tailwind CSS · Node.js · Vercel
-
 ---
 
 ## 🧠 Agentic AI
