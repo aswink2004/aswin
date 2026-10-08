@@ -1,6 +1,6 @@
 # Hi, I'm Aswin 👋
 
-Full-stack developer who builds practical business web applications, with a side interest in machine learning, accessibility, and web security.
+Software developer who builds practical business web applications, with hands-on experience in **agentic AI**, plus side interests in machine learning, accessibility, and web security.
 
 I like turning messy real-world workflows (shipments, enquiries, inventory, event approvals) into simple tools people actually use.
 
@@ -11,6 +11,8 @@ I like turning messy real-world workflows (shipments, enquiries, inventory, even
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
@@ -21,6 +23,11 @@ I like turning messy real-world workflows (shipments, enquiries, inventory, even
 ---
 
 ## 🚀 Featured projects
+
+### 🤖 [Trendly Agent](https://github.com/aswink2004/trendly-agent): agentic AI project
+An agentic AI project built around autonomous, tool-using agents. <!-- TODO: add 1-2 lines on what Trendly Agent does, e.g. what it tracks, which tools it calls, and the result -->
+**Stack:** <!-- TODO: e.g. Python / Node.js · LLM API · agent framework -->
+**Highlights:** agentic workflows · tool use · automation
 
 ### 🔗 [Make_it_Short](https://github.com/aswink2004/Make_it_Short): URL shortener
 Shorten any URL, choose custom aliases, and track clicks per link, all behind a clean dark UI.
@@ -40,6 +47,16 @@ A computer-vision / machine learning project exploring how hand gestures can be 
 A web application for managing external events at college, with a documented project flow and design assets.
 **Stack:** Python · Django · SQLite · HTML
 
+### ⚡ [Eqrev Integration (Hackathon)](https://github.com/aswink2004/eqrev__hackathon)
+A hackathon project with a React front end and a separate backend, built and deployed within a short time limit.
+**Stack:** React · Vite · Tailwind CSS · Node.js · Vercel
+
+---
+
+## 🧠 Agentic AI
+
+I've worked with agentic AI, building agents that plan, call tools, and complete multi-step tasks rather than just answer prompts. My featured work here is [Trendly Agent](https://github.com/aswink2004/trendly-agent).
+
 ---
 
 ## 💼 Professional work
@@ -57,7 +74,8 @@ Alongside these public projects, I build internal business web applications. The
 ## 🌱 Currently
 
 - Polishing my public repos with clear READMEs, screenshots, and live demos
-- Exploring AI agents for business workflows (quote drafting, shipment queries)
+- Building and refining agentic AI projects, including Trendly Agent
+- Applying AI agents to business workflows such as quotes and shipment queries
 
 ---
 
