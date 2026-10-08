@@ -1,4 +1,4 @@
-# Hi, I'm Aswin 👋
+# Hi, I'm Aswin 
 
 Full-stack developer who builds practical business web applications, with hands-on experience in **agentic AI**, plus side interests in machine learning, accessibility, and web security.
 
@@ -18,6 +18,8 @@ I like turning messy real-world workflows (shipments, enquiries, inventory, even
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 ---
@@ -29,10 +31,10 @@ An agentic AI project built around autonomous, tool-using agents. <!-- TODO: add
 **Stack:** <!-- TODO: e.g. Python / Node.js · LLM API · agent framework -->
 **Highlights:** agentic workflows · tool use · automation
 
-### 🏛️ [Heritage TN](https://github.com/aswink2004/heritage-tn)
-<!-- TODO: add 1-2 lines on what Heritage TN is and does (purpose, who it is for, main features) -->
-**Stack:** <!-- TODO: e.g. React · Node.js · MySQL -->
-**Live:** <!-- TODO: add the deployed link if there is one, otherwise delete this line -->
+### 🏛️ [Heritage TN](https://github.com/aswink2004/heritageTN): LLM-powered heritage discovery app for Tamil Nadu
+A cross-platform mobile app for discovering the heritage of Tamil Nadu, with interactive maps and location features. Forked from [Kamarajan15/heritageTN](https://github.com/Kamarajan15/heritageTN).
+**Stack:** Flutter · Dart · flutter_map · geolocator · LLM integration
+**Platforms:** Android · iOS · Web · Windows · macOS · Linux
 
 ### 🔗 [Make_it_Short](https://github.com/aswink2004/Make_it_Short): URL shortener
 Shorten any URL, choose custom aliases, and track clicks per link, all behind a clean dark UI.
@@ -51,6 +53,7 @@ A computer-vision / machine learning project exploring how hand gestures can be 
 ### 🎟️ [External Event Management System (BIT)](https://github.com/aswink2004/External_Event_ManageMent_System_BIT)
 A web application for managing external events at college, with a documented project flow and design assets.
 **Stack:** Python · Django · SQLite · HTML
+
 
 
 ---
