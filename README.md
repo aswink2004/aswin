@@ -1,29 +1,73 @@
 # Hi, I'm Aswin 👋
 
-Full-stack developer who builds practical business web applications and explores ML and security projects on the side.
+Full-stack developer who builds practical business web applications, with a side interest in machine learning, accessibility, and web security.
 
-## What I work on
-- 🚚 Shipment tracking and document generation
-- 📦 Inventory and project management systems
-- 🧾 Enquiry / RFQ and quote workflows
-- 🤖 Computer vision: gesture recognition for accessibility
-- 🔐 Web security tooling
+I like turning messy real-world workflows (shipments, enquiries, inventory, event approvals) into simple tools people actually use.
 
-## Tech stack
+---
+
+## 🛠️ Tech stack
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
-## Featured projects
-| Project | What it does | Stack |
-|---|---|---|
-| [Make_it_Short](https://github.com/aswink2004/Make_it_Short) | URL shortener | Node.js, MySQL |
-| [WEB-GUARD](https://github.com/aswink2004/WEB-GUARD) | Web security tool | Python |
-| [Hand Gesture Recognition](https://github.com/aswink2004/Hand-Gesture-Recognition-for-Differently-Abled-People) | Gesture recognition to assist differently-abled users | Python, Jupyter |
-| [Event Management System](https://github.com/aswink2004/External_Event_ManageMent_System_BIT) | External event management for BIT | HTML |
+---
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/aswin-k-018265264/)
+## 🚀 Featured projects
+
+### 🔗 [Make_it_Short](https://github.com/aswink2004/Make_it_Short): URL shortener
+Shorten any URL, choose custom aliases, and track clicks per link, all behind a clean dark UI.
+**Stack:** Node.js · Express · MySQL · Vercel
+**Live:** [make-it-short-two.vercel.app](https://make-it-short-two.vercel.app)
+
+### 🛡️ [WEB-GUARD](https://github.com/aswink2004/WEB-GUARD): ML spam-detection Chrome extension
+A browser extension that scans visible page text, flags spam at the sentence level, and highlights it in red. It uses an ensemble of Multinomial Naive Bayes, Bernoulli Naive Bayes, and Random Forest classifiers, and includes a text box for checking pasted messages.
+**Stack:** Python · scikit-learn · JavaScript · Chrome Extension API
+**Live:** [web-guard-one.vercel.app](https://web-guard-one.vercel.app)
+
+### 🤟 [Hand Gesture Recognition for Differently-Abled People](https://github.com/aswink2004/Hand-Gesture-Recognition-for-Differently-Abled-People)
+A computer-vision / machine learning project exploring how hand gestures can be recognized to support accessibility.
+**Stack:** Python · Jupyter Notebook
+
+### 🎟️ [External Event Management System (BIT)](https://github.com/aswink2004/External_Event_ManageMent_System_BIT)
+A web application for managing external events at college, with a documented project flow and design assets.
+**Stack:** Python · Django · SQLite · HTML
+
+### ⚡ [Eqrev Integration (Hackathon)](https://github.com/aswink2004/eqrev__hackathon)
+A hackathon project with a React front end and a separate backend, built and deployed within a short time limit.
+**Stack:** React · Vite · Tailwind CSS · Node.js · Vercel
+
+---
+
+## 💼 Professional work
+
+Alongside these public projects, I build internal business web applications. The code is private, but the problems I've solved include:
+
+- 🚚 **Shipment management:** courier tracking and document generation
+- 🧾 **Enquiry / RFQ workflow:** part pricing, quotes, supplier files, and status history
+- 📦 **Project and inventory management:** trackers and dashboards
+- 📄 **Delivery challans:** item-received workflows
+- 🔧 **Tool tracking:** inward, issue, and return of cutting tools
+
+---
+
+## 🌱 Currently
+
+- Polishing my public repos with clear READMEs, screenshots, and live demos
+- Exploring AI agents for business workflows (quote drafting, shipment queries)
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-k-018265264/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aswink2004)
