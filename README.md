@@ -1,21 +1,29 @@
-<h1 align="center">Hi 👋, I'm Aswin</h1>
-<div align="center">
-  <a href="https://www.linkedin.com/in/aswin-k-018265264/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:aswinkarthikeyan05gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
-  </a>
-</div>
-<h3 align="left">👩‍💻 About Me</h3>
+# Hi, I'm Aswin 👋
 
-<p align="left">
-  I'm from Tamil Nadu, India<br><br>
-  🔭 I’m a Software Engineer<br>
-  📚 I'm currently learning Full Stack Development
-</p>
+Full-stack developer who builds practical business web applications and explores ML and security projects on the side.
 
+## What I work on
+- 🚚 Shipment tracking and document generation
+- 📦 Inventory and project management systems
+- 🧾 Enquiry / RFQ and quote workflows
+- 🤖 Computer vision: gesture recognition for accessibility
+- 🔐 Web security tooling
 
+## Tech stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
+## Featured projects
+| Project | What it does | Stack |
+|---|---|---|
+| [Make_it_Short](https://github.com/aswink2004/Make_it_Short) | URL shortener | Node.js, MySQL |
+| [WEB-GUARD](https://github.com/aswink2004/WEB-GUARD) | Web security tool | Python |
+| [Hand Gesture Recognition](https://github.com/aswink2004/Hand-Gesture-Recognition-for-Differently-Abled-People) | Gesture recognition to assist differently-abled users | Python, Jupyter |
+| [Event Management System](https://github.com/aswink2004/External_Event_ManageMent_System_BIT) | External event management for BIT | HTML |
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/aswin-k-018265264/)
